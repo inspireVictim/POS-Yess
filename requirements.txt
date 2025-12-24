@@ -1,0 +1,4 @@
+flet
+qrcode
+requests
+pillow

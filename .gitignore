@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Flet / Build
+build/
+dist/
+.flet/
+
+# Android/C# (если есть остатки)
+bin/
+obj/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
